@@ -30,7 +30,7 @@ ul li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem;
+  padding: .75rem 1.5rem;
 }
 
 ul li p {
